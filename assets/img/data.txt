@@ -1,0 +1,27 @@
+[
+    {
+      nombre: "Perro",
+      img: "assets/img/aquaman.png",
+      
+    },
+    {
+      nombre: "Gato",
+      
+      img: "assets/img/batman.png",
+      
+    },
+    {
+      nombre: "Conejo",
+      img: "assets/img/daredevil.png",
+      
+    },
+    {
+      nombre: "Cerdo",
+      img: "assets/img/hulk.png",
+          },
+    {
+      nombre: "Hámster",
+      img: "assets/img/linterna-verde.png",
+          },
+    
+  ];
